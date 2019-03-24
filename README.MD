@@ -6,6 +6,6 @@
 - Playing audio on key events
 
 ## Day 2 Analog Clock
-- 
+- Using getDate to 
 -  
 - 
