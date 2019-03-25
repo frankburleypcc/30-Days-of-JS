@@ -11,6 +11,6 @@
 - querySelector changes each div class's style
 
 ## Day 2 Update CSS var with JS
-- coming soon
-- coming soon
-- coming soon
+- Value updated by slider
+- Failed to get the color change working. 
+- CSS Variables
