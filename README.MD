@@ -11,6 +11,6 @@
 - querySelector changes each div class's style
 
 ## Day 2 Update CSS var with JS
-- setInterval to 1 second for setDate function
-- Using ES6 template literals for the math to set the degrees of each hand
-- querySelector changes each div class's style
+- coming soon
+- coming soon
+- coming soon
