@@ -10,7 +10,12 @@
 - Using ES6 template literals for the math to set the degrees of each hand
 - querySelector changes each div class's style
 
-## Day 2 Update CSS var with JS
+## Day 3 Update CSS var with JS
 - Value updated by slider
 - Failed to get the color change working. 
 - CSS Variables
+
+## Day 4 Array Cardio Day 1
+- Coming Soon
+- Coming Soon 
+- Coming Soon
