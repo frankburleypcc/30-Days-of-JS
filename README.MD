@@ -16,6 +16,6 @@
 - CSS Variables
 
 ## Day 4 Array Cardio Day 1
-- Coming Soon
-- Coming Soon 
-- Coming Soon
+- Using filter, map, sort, reduce
+- Using ternary
+- Counting instances with loops
