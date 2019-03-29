@@ -24,3 +24,8 @@
 - Set CSS to flex with columns
 - Set transform: translate on top and bottom levels of text
 - JS toggle on panels with addeventlisteners
+
+## Day 6 Ajax Type Ahead
+- 
+- 
+- 
