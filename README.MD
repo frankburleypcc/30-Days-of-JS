@@ -19,3 +19,8 @@
 - Using filter, map, sort, reduce
 - Using ternary
 - Counting instances with loops
+
+## Day 5 Flex Panels
+- Set CSS to flex with columns
+- Set transform: translate on top and bottom levels of text
+- JS toggle on panels with addeventlisteners
