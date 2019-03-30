@@ -30,8 +30,8 @@
 - Used the finished product file to fix mine
 - Sad
 
-## Day 7
-- 
-- 
-- 
+## Day 7 Array Cardio Day 2
+- Used prototype.some
+- Used prototype.every
+- Used prototype.find and findIndex where I used split to remove the index found
 
