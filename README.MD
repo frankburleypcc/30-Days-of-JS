@@ -26,6 +26,6 @@
 - JS toggle on panels with addeventlisteners
 
 ## Day 6 Ajax Type Ahead
-- 
+- Uses JSON to retrieve the info for cities
 - 
 - 
