@@ -27,5 +27,11 @@
 
 ## Day 6 Ajax Type Ahead
 - Uses JSON to retrieve the info for cities
+- Used the finished product file to fix mine
+- Sad
+
+## Day 7
 - 
 - 
+- 
+
