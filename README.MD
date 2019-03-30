@@ -35,3 +35,8 @@
 - Used prototype.every
 - Used prototype.find and findIndex where I used split to remove the index found
 
+## Day 8 HTML Canvas
+- 
+- 
+- 
+
