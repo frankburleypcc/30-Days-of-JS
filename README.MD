@@ -40,3 +40,8 @@
 - Set an if statement to reverse direction from 100 down to 1 for lineWidth
 - Using mousemove, mouseup, mousedown, and mouseout to control natural line drawing
 
+## Day 9 Dev Tool Domination
+- 
+- 
+- 
+
