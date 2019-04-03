@@ -41,7 +41,7 @@
 - Using mousemove, mouseup, mousedown, and mouseout to control natural line drawing
 
 ## Day 9 Dev Tool Domination
-- 
-- 
-- 
+- Ways to communicate with the console. 
+- Style to the console with css
+- Set up timed fetching to an api
 
