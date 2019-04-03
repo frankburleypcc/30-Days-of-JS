@@ -9,7 +9,7 @@
   <p onClick="makeGreen()">×BREAK×DOWN×</p>
 
   <script>
-    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'Hugo', age: 8 }];
 
     function makeGreen() {
       const p = document.querySelector('p');
@@ -23,24 +23,44 @@
     // Interpolated
     console.log('Hello. I am a %s string', '+poo');
     // Styled
-    console.log('%c I am text that is bigger', 'font-size: 20px;');
+    console.log('%c I am bigger cursive text with a pink background', 'font-size: 20px; background: pink; font-family: cursive;');
     // warning!
-
+    console.warn('Hal...');
     // Error :|
-
+    console.error('But is it really?');
     // Info
+    console.info('Trees are big at times.');
 
     // Testing
-
+    console.assert(1 === 2, 'not right');
     // clearing
-
+    //console.clear();
     // Viewing DOM Elements
-
+    // console.dir(p);
     // Grouping together
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.age} is ${dog.name}'s age`);
+      console.log(`${dog.age * 7} is ${dog.name}'s age in human years.`);
+      console.groupEnd(`${dog.name}`);
+    })
 
     // counting
-
+    console.count('Hugo');
+    console.count('Hugo');
+    console.count('Hugo');
+    console.count('HugoBoy');
     // timing
+    console.time('Fetching Data');
+    fetch('http://api.github.com/users/frankburleypcc')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('Fetching Data');
+        console.log(data);
+      });
+      //table
+      console.table(dogs);
 
   </script>
 </body>
