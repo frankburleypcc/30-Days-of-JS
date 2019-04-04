@@ -45,3 +45,4 @@
 - Style to the console with css
 - Set up timed fetching to an api
 
+## Day 10 Hold Shift Check boxes
