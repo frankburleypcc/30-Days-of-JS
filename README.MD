@@ -46,3 +46,9 @@
 - Set up timed fetching to an api
 
 ## Day 10 Hold Shift Check boxes
+- Set a function to hold shift for first and second check box
+- In that function, set an if statement for checking if the boxes in between were checked
+- the  Let variable  inBetween = !inBetween which and another if sets true to those boxes
+
+## Day 11 HTML5 Video Player
+-
