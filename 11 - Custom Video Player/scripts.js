@@ -23,6 +23,9 @@ function skip() {
 function handleRangeUpdate() {
     video[this.name] = this.value;
 }
+function handleProgress() {
+    console.log('Progress working');
+}
 
 //hook up the event listeners
 video.addEventListener('click', togglePlay);
