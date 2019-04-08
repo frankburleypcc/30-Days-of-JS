@@ -51,4 +51,5 @@
 - the  Let variable  inBetween = !inBetween which and another if sets true to those boxes
 
 ## Day 11 HTML5 Video Player
--
+- Set ternary operators for toggling vid playback and play and pause icon
+- 
