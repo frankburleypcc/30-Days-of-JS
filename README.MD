@@ -52,4 +52,5 @@
 
 ## Day 11 HTML5 Video Player
 - Set ternary operators for toggling vid playback and play and pause icon
-- 
+- Set click events for range (volume and speed) 
+- Set click events for progress (duration bar and scrub feature)
