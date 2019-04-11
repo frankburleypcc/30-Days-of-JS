@@ -54,3 +54,8 @@
 - Set ternary operators for toggling vid playback and play and pause icon
 - Set click events for range (volume and speed) 
 - Set click events for progress (duration bar and scrub feature)
+
+## Day 12 Key Sequence
+- Detecting keyup events and storing them in an array
+- Splice and trim the number of pushes from the array
+- if the const var = my secret code, unlock unicorns
