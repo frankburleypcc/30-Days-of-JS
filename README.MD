@@ -59,3 +59,5 @@
 - Detecting keyup events and storing them in an array
 - Splice and trim the number of pushes from the array
 - if the const var = my secret code, unlock unicorns
+
+## Day 13 Slide in on scroll
