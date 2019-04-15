@@ -61,3 +61,8 @@
 - if the const var = my secret code, unlock unicorns
 
 ## Day 13 Slide in on scroll
+- Set the math for offsets in const variables
+- If statements to add and remove classes based on math from const
+- debounce function was not part of the lesson. It was used from an outside source
+
+# Day 14
