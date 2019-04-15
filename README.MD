@@ -65,4 +65,7 @@
 - If statements to add and remove classes based on math from const
 - debounce function was not part of the lesson. It was used from an outside source
 
-# Day 14
+# Day 14 Arrays and Objects - Reference vs Copy
+- How to make a copy and use Object.assign()
+- Use slice()
+- Only can go one level deep for objects. Could create a function to get deeper into the objects but not recommended. Also stringify and back into using parse not recommended. 
