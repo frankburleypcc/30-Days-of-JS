@@ -71,4 +71,5 @@
 - Only can go one level deep for objects. Could create a function to get deeper into the objects but not recommended. Also stringify and back into using parse not recommended. 
 
 # Day 15 Local Storage and Event Delegation
+- Item added goes into localStorage, checks on page load if item is in localStorage
 - 
