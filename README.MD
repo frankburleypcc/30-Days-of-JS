@@ -74,3 +74,6 @@
 - Item added goes into localStorage, checks on page load if item is in localStorage
 - Every time a change is made. Mirrors into localStorage
 - Event delegation set to all children of inputs
+
+# Day 16 CSS Text Shadow Mouse Move Effect 
+- 
