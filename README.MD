@@ -72,4 +72,5 @@
 
 # Day 15 Local Storage and Event Delegation
 - Item added goes into localStorage, checks on page load if item is in localStorage
-- 
+- Every time a change is made. Mirrors into localStorage
+- Event delegation set to all children of inputs
