@@ -76,4 +76,9 @@
 - Event delegation set to all children of inputs
 
 # Day 16 CSS Text Shadow Mouse Move Effect 
+- Using mousemove for event listener to the shadow function
+- Uses the offset width and height to locate mouse
+- Using e.target to not use the h1 box to give an undesired number for H and W
+
+# Day 17 Sorting Band Names without Articles
 - 
