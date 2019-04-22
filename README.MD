@@ -81,4 +81,6 @@
 - Using e.target to not use the h1 box to give an undesired number for H and W
 
 # Day 17 Sorting Band Names without Articles
-- 
+- Using array.sort method and strip the undesired words in the strip function
+- Takes element, into innerHtml in sortedBands
+- Map over each and join to avoid commas at the end of each band.  
