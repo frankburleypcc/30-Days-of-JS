@@ -84,3 +84,6 @@
 - Using array.sort method and strip the undesired words in the strip function
 - Takes element, into innerHtml in sortedBands
 - Map over each and join to avoid commas at the end of each band.  
+
+# Day 18 Tally String Times and Reduce
+- 
