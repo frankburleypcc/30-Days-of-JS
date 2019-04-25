@@ -86,4 +86,8 @@
 - Map over each and join to avoid commas at the end of each band.  
 
 # Day 18 Tally String Times and Reduce
-- 
+- Might have been a late day at work but this one didn't sink in
+- Understood the project as a whole but the math mixed in with Math.floor, reduce and etc., it went too fast
+- May have to revisit this exercise 
+
+# Day 19 Unreal Webcam Fun
