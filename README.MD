@@ -91,3 +91,8 @@
 - May have to revisit this exercise 
 
 # Day 19 Unreal Webcam Fun
+- Not interested in a webcam lesson
+- May not come back to this one 
+
+# Day 20 Native Speech Recognition 
+
