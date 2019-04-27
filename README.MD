@@ -95,4 +95,6 @@
 - May not come back to this one 
 
 # Day 20 Native Speech Recognition 
-
+- Speech creates p tags with the spoken content 
+- When the event stop by default, and eventListener open the function back up
+- The words are turned into an array and then joined to look like complete sentences. 
