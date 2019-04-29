@@ -102,4 +102,5 @@
 # Day 21 Geolocation based speedometer and Compass
 - This requires an updated version of Xcode. I'll have to come back to this one. 
 
-# Day 22 
+# Day 22 Follow along Links
+-
