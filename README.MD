@@ -103,4 +103,6 @@
 - This requires an updated version of Xcode. I'll have to come back to this one. 
 
 # Day 22 Follow along Links
--
+
+# Day 23 Speech Synthesis
+- 
