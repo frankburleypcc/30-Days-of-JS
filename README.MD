@@ -105,4 +105,4 @@
 # Day 22 Follow along Links
 
 # Day 23 Speech Synthesis
-- 
+- populateVoices function retrieves different voices to use in the dropdown
