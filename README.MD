@@ -109,4 +109,5 @@
 - setVoice function finds the object that corresponds with the voice name. 
 
 # Day 24 Sticky Nav
--
+- Created a fixNav function where the offsettop created a class when the #nav hits the
+  top of the window. This eventListener uses scroll to work with that function. 
