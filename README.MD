@@ -111,3 +111,7 @@
 # Day 24 Sticky Nav
 - Created a fixNav function where the offsettop created a class when the #nav hits the
   top of the window. This eventListener uses scroll to work with that function. 
+- Used padding to the nav when the class is activated to smooth the effect. 
+
+# Day 25 Event Capture, Propagation, Bubbling, and Once
+- 
