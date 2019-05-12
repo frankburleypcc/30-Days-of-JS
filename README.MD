@@ -114,4 +114,5 @@
 - Used padding to the nav when the class is activated to smooth the effect. 
 
 # Day 25 Event Capture, Propagation, Bubbling, and Once
+- Set a function for bubbling the divs of nested divs
 - 
