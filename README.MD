@@ -115,4 +115,5 @@
 
 # Day 25 Event Capture, Propagation, Bubbling, and Once
 - Set a function for bubbling the divs of nested divs
-- 
+- Added a e.stopPropagation to stop the bubbling to capture the single element
+- Added once to the eventListener to only capture one click. Useful is situations like store checkout buttons. 
