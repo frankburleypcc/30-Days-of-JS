@@ -224,7 +224,19 @@
   const background = document.querySelector('.dropdownBackground');
   const nav = document.querySelector('.top');
 
+  function handleEnter() {
+    console.log('I entered')
+  }
   
+  function handleLeave() {
+    console.log('I left')
+  }
+
+  triggers.forEach(trigger => trigger.addEventListener('mouseenter', handleEnter));
+  triggers.forEach(trigger => trigger.addEventListener('mouseleave', handleLeave));
+
+
+
 </script>
 
 </body>
