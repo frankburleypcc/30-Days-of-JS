@@ -231,7 +231,12 @@
 
     const dropdown = this.querySelector('.dropdown');
     const dropdownCords = dropdown.getBoundingClientRect();
-    console.log(dropdownCords);
+    const navCoords = nav.getBoundingClientRect();
+    
+    const coords = {
+      height: dropdownCords.height,
+      width: dropdownCords.width
+    }
   }
   
   function handleLeave() {
