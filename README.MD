@@ -118,4 +118,10 @@
 - Added a e.stopPropagation to stop the bubbling to capture the single element
 - Added once to the eventListener to only capture one click. Useful is situations like store checkout buttons. 
 
-# Day 26 
+# Day 26 Stripe Follow Along Dropdown
+- Transition animates in CSS 
+- Sets a timeout for the content inside the white background to not have the content rushed 
+- two functions set and the function that enters sets the coordinates for the background content to resize 
+
+# Day 27 Click and Drag to Scroll
+- 
