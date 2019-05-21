@@ -124,4 +124,5 @@
 - two functions set and the function that enters sets the coordinates for the background content to resize 
 
 # Day 27 Click and Drag to Scroll
+- Using different mousemove events to move the boxes
 - 
